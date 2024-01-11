@@ -1,1 +1,30 @@
 # 201220043_UASDataMining_BreastCancer
+# Prediksi Kanker Payudara Menggunakan Machine Learning
+
+Classifier webapp dibangun dengan menggunakan Streamlit (Python-framework). Tujuannya untuk mengategorikan kanker payudara ganas atau jinak berdasarkan parameter inputan. Algoritma yang digunakan adalah Logistic Regression. App ini juga dapat mengenerate visualized report dengan data pasien.
+
+## **Technologies Used:**
+
+### For Development
+* Python3 (Programming Language)
+* Streamlit (Python-Framework)
+* Jupyter Notebook
+* VS Code (IDE)
+* Google Colab
+
+### For EDA
+* NumPy
+* Pandas
+* Matplotlib
+* Seaborn
+
+### For Model-training
+* sklearn.model_selection - train_test_split
+* linear_model - LogisticRegression
+
+### Deployment
+* GitHub
+
+## References
+* For Dataset [Kaggle](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
+* For UI [Streamlit](https://streamlit.io/)
